@@ -1,6 +1,6 @@
 ## **USER APP**
 
-User app is a social networking application where user can search other users, see their user name, email, and date of birth.
+User app is a social network application where user can search other users, see their name, email, and date of birth.
 
 
 ### **TECHNOLOGIES**
