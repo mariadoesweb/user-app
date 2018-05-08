@@ -52,7 +52,7 @@ user-app/
     registerServiceWorker.js
 package-lock.json
 package.json
-READEME.md
+README.md
 
 ```
 
