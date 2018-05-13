@@ -1,15 +1,13 @@
 ## **USER APP**
 
-User app is a social network application where user can search other users, see their name, email, and date of birth.
+BITPeople is a social network-like ReactJS application where user can search other users, see their name, email, and date of birth. App uses [RandomUser](https://randomapi.com) API.
+
+[View demo](https://mariaradovanovic.github.io/user-app)
 
 
 ### **TECHNOLOGIES**
 
-Languages: HTML5, CSS3, JavaScript (ES6)
-
-Framework: React, Materialize
-
-Package Manager: Npm
+ReactJS, Materialize, HTML5, CSS3, JavaScript (ES6), npm
 
 
 
