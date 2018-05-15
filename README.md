@@ -5,56 +5,9 @@ User app is a social network application where user can search other users, see 
 
 ### **TECHNOLOGIES**
 
-Languages: HTML5, CSS3, JavaScript (ES6)
-
-Framework: React, Materialize
-
-Package Manager: Npm
+HTML5, CSS3, JavaScript (ES6), React, Materialize, Npm
 
 
-
-### **STRUCTURE OF USER APP**
-
-```
-user-app/
-  images/
-  public/
-    favicon.ico
-    index.html
-    manifest.json
-  src/
-    App/
-      Elements/
-        LoadingElement.js
-        SearchBar.js
-        SentimentSign.js
-      Partials/
-        Footer.js
-        Header.js
-      Users/
-        UsersCard.js
-        UsersGrid.js
-        UsersList.js
-        UsersListItem.js
-      About.js
-      App.js
-      Home.js
-    Entities/
-      User.js
-    Services/
-      UserService.js
-    Shared/
-      utils.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
-    registerServiceWorker.js
-package-lock.json
-package.json
-README.md
-
-```
 
 ### **SCREENSHOTS**
 
